@@ -1,4 +1,4 @@
-基于SpringBoot的在线小说阅读平台（程序+论文）
+基于SpringBoot的在线小说阅读平台
 =
 - 完整代码获取地址：从戎源码网 ([https://armycodes.com/](https://armycodes.com/))
 - 作者微信：19941326836  QQ：952045282 
@@ -53,9 +53,6 @@
 
 四、运行截图
 ---
-### 论文截图：
-![image/1.png](limage/1.png)
-![image/1.png](limage/2.png)
 
 ### 程序截图：
 ![image/1.png](image/1.png)
